@@ -1,2 +1,4 @@
-/.gitignore
-/.ig1
+
+
+.gitignore
+txtgitignorefile1.txt
