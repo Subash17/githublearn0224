@@ -1,4 +1,0 @@
-
-
-.gitignore
-txtgitignorefile1.txt
